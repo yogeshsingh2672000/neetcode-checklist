@@ -13,3 +13,4 @@ def isAnagram(s, t):
         return False
 
 print(isAnagram(s, t))
+# Time Complexity = O(n)

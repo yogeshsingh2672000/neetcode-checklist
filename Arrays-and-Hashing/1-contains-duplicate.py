@@ -11,3 +11,4 @@ def containsDuplicate(nums):
     return False
 
 print(containsDuplicate(nums))
+# Time complexity = O(n)
